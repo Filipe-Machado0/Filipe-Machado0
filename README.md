@@ -1,4 +1,4 @@
-## Ola eu sou Filipe, estudante análise e desenvolvimento de sistemas
+## Filipe Machado. Infoprodutor, dev.
 
 
 <div style="display: inline_block"><br>
